@@ -8,7 +8,9 @@ September of 2019
 
 ## Getting Started
 
-Dechain is weekend project to build simple prototype for vehicle identity management using blockchain technology
+Dechain is weekend project to build simple prototype for vehicle identity management using blockchain technology.
+
+Also compete in Finnhacks 2019 BCA competition
 
 ![alt text](https://github.com/rainoverme002/Dechain-Vehicle-Connected-Blockchain/blob/master/Home%20-%20Account.png)
 
