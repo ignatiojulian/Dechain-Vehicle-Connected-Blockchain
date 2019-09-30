@@ -2,7 +2,7 @@
 
 Indonesia
 
-Author: I Gusti Bagus Awienandra, Ignatio Julian
+Author: Awien, Julian, Adnan, Yudha, Vincent
 
 September of 2019
 
